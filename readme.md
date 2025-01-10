@@ -105,4 +105,3 @@ You have successfully set up Tailwind CSS with Vite in your project! You can now
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Vite Documentation](https://vitejs.dev/)
 
-```
